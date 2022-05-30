@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-types-of-wiring" />
+        <module name="kata_214_spring_types_of_wiring" />
       </profile>
     </annotationProcessing>
   </component>
